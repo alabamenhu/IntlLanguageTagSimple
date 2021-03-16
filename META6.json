@@ -1,0 +1,24 @@
+{
+  "name": "Intl::LanguageTag::Simple",
+  "description": "A simple and lightweight class implementing the LanguageTaggish role",
+  "version": "0.1",
+  "perl": "6.*",
+  "raku": "6.*",
+  "authors": [
+    "Matthew Stephen Stuckwisch"
+  ],
+  "auth": "git:alabamenhu",
+  "depends": ["Intl::LanguageTaggish"],
+  "build-depends": [],
+  "test-depends": ["Test"],
+  "provides": {
+    "Intl::LanguageTag::Simple": "lib/Intl/LanguageTag/Simple.rakumod"
+  },
+  "resources": [],
+  "license": "Artistic-2.0",
+  "source-url": "git://github.com/alabamenhu/IntlLanguageTagSimple.git",
+  "documentation": {
+    "root" : "Intl::LanguageTag::Simple",
+    "base-language" : "en"
+  }
+}

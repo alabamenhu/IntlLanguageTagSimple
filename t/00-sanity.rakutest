@@ -1,0 +1,4 @@
+use Intl::LanguageTag::Simple;
+use Test;
+
+done-testing;
